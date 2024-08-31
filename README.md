@@ -11,5 +11,6 @@
 
  Utilized various types of customized visualizations, including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, maps, slicers, and more.
 
+![power bi ss](https://github.com/user-attachments/assets/315be0b9-5e7a-40b3-97a4-b184182b7e47)
 
-"C:\Users\LENOVO\Desktop\my projects\New folder\Power Bi project 1\power bi ss.png"
+
